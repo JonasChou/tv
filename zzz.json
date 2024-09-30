@@ -1,0 +1,598 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-1",
+            "num": "00001",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-2",
+            "num": "00002",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-3",
+            "num": "00003",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-4",
+            "num": "00004",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-5",
+            "num": "00005",
+            "urllist": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-5+",
+            "num": "00006",
+            "urllist": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-6",
+            "num": "00007",
+            "urllist": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-7",
+            "num": "00008",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-8",
+            "num": "00009",
+            "urllist": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-9",
+            "num": "00010",
+            "urllist": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-10",
+            "num": "00011",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-11",
+            "num": "00012",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-12",
+            "num": "00013",
+            "urllist": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-13",
+            "num": "00014",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-14",
+            "num": "00015",
+            "urllist": "http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-15",
+            "num": "00016",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-16",
+            "num": "00017",
+            "urllist": "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-17",
+            "num": "00018",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "北京卫视",
+            "num": "00019",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东方卫视",
+            "num": "00020",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "天津卫视",
+            "num": "00021",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "重庆卫视",
+            "num": "00022",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙江卫视",
+            "num": "00023",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "辽宁卫视",
+            "num": "00024",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "山东卫视",
+            "num": "00025",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖南卫视",
+            "num": "00026",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "安徽卫视",
+            "num": "00027",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江苏卫视",
+            "num": "00028",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江卫视",
+            "num": "00029",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广东卫视",
+            "num": "00030",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "深圳卫视",
+            "num": "00031",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湖北卫视",
+            "num": "00032",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "广西卫视",
+            "num": "00033",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "四川卫视",
+            "num": "00034",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江西卫视",
+            "num": "00035",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "河北卫视",
+            "num": "00036",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "河南卫视",
+            "num": "00037",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "海南卫视",
+            "num": "00038",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东南卫视",
+            "num": "00039",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "贵州卫视",
+            "num": "00040",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "吉林卫视",
+            "num": "00041",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "云南卫视",
+            "num": "00042",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "甘肃卫视",
+            "num": "00043",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "青海卫视",
+            "num": "00044",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "宁夏卫视",
+            "num": "00045",
+            "urllist": "https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "内蒙卫视",
+            "num": "00046",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "兵团卫视",
+            "num": "00047",
+            "urllist": "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "第一卫视",
+            "num": "00048",
+            "urllist": "http://play2.one-tv.com/live/onetv.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纪实科教",
+            "num": "00049",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "纪实人文",
+            "num": "00050",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "美亚C+",
+            "num": "00051",
+            "urllist": "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "黑莓电影",
+            "num": "00052",
+            "urllist": "http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "黑莓动画",
+            "num": "00053",
+            "urllist": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江新闻",
+            "num": "00054",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江国际",
+            "num": "00055",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江少儿",
+            "num": "00056",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江教科",
+            "num": "00057",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "之江纪录",
+            "num": "00058",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江民生",
+            "num": "00059",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江经济",
+            "num": "00060",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "浙江钱江",
+            "num": "00061",
+            "urllist": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙江文体",
+            "num": "00062",
+            "urllist": "http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙江都市",
+            "num": "00063",
+            "urllist": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙江少儿",
+            "num": "00064",
+            "urllist": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "龙江影视",
+            "num": "00065",
+            "urllist": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "内蒙新闻",
+            "num": "00066",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "内蒙经济",
+            "num": "00067",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "内蒙少儿",
+            "num": "00068",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "内蒙文体",
+            "num": "00069",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "内蒙农牧",
+            "num": "00070",
+            "urllist": "https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "乐游频道",
+            "num": "00071",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "欢笑剧场",
+            "num": "00072",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "都市剧场",
+            "num": "00073",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金色学堂",
+            "num": "00074",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "动漫秀场",
+            "num": "00075",
+            "urllist": "http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "南国都市",
+            "num": "00076",
+            "urllist": "https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "超级体育",
+            "num": "00077",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "超级电影",
+            "num": "00078",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "超级视剧",
+            "num": "00079",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "东北热剧",
+            "num": "00080",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "海外剧场",
+            "num": "00081",
+            "urllist": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中国功夫",
+            "num": "00082",
+            "urllist": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "军旅剧场",
+            "num": "00083",
+            "urllist": "http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "惊悚悬疑",
+            "num": "00084",
+            "urllist": "http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "潮妈辣婆",
+            "num": "00085",
+            "urllist": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "精品萌宠",
+            "num": "00086",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "超级综艺",
+            "num": "00087",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金牌综艺",
+            "num": "00088",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "精品体育",
+            "num": "00089",
+            "urllist": "http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "精品纪录",
+            "num": "00090",
+            "urllist": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "家庭剧场",
+            "num": "00091",
+            "urllist": "http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "精品大剧",
+            "num": "00092",
+            "urllist": "http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "军事评论",
+            "num": "00093",
+            "urllist": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "明星大片",
+            "num": "00094",
+            "urllist": "http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "欢乐剧场",
+            "num": "00095",
+            "urllist": "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "炫舞未来",
+            "num": "00096",
+            "urllist": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "爱情喜剧",
+            "num": "00097",
+            "urllist": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "古装剧场",
+            "num": "00098",
+            "urllist": "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "=未分组="
+        }
+    ]
+}
